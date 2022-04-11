@@ -9,13 +9,14 @@ h2 {
 
 td, th {
     padding: 10px;
+    text-align: center;
 }
 
 .moda-th {
     background-color: #BB86FC;
 }
 
-.produtos-moda, .produtos-casa {
+.tabela-moda, .tabela-casa {
     background-color: #424250;
 }
 
